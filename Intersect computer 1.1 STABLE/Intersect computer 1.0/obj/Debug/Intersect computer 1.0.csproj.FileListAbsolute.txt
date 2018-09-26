@@ -1,0 +1,30 @@
+c:\users\admin\documents\visual studio 2013\Projects\Intersect computer 1.0\Intersect computer 1.0\bin\Debug\Intersect computer 1.0.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Intersect computer 1.0\Intersect computer 1.0\bin\Debug\Intersect computer 1.0.exe
+c:\users\admin\documents\visual studio 2013\Projects\Intersect computer 1.0\Intersect computer 1.0\bin\Debug\Intersect computer 1.0.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Intersect computer 1.0\Intersect computer 1.0\obj\Debug\Intersect computer 1.0.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Intersect computer 1.0\Intersect computer 1.0\obj\Debug\Intersect_computer_1._0.LoadForm.resources
+c:\users\admin\documents\visual studio 2013\Projects\Intersect computer 1.0\Intersect computer 1.0\obj\Debug\Intersect_computer_1._0.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Intersect computer 1.0\Intersect computer 1.0\obj\Debug\Intersect computer 1.0.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Intersect computer 1.0\Intersect computer 1.0\obj\Debug\Intersect computer 1.0.exe
+c:\users\admin\documents\visual studio 2013\Projects\Intersect computer 1.0\Intersect computer 1.0\obj\Debug\Intersect computer 1.0.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Intersect computer 1.0\Intersect computer 1.0\obj\Debug\Intersect_computer_1._0.MainForm.resources
+c:\users\admin\documents\visual studio 2013\Projects\Intersect computer 1.0\Intersect computer 1.0\obj\Debug\Intersect_computer_1._0.AddText.resources
+c:\users\admin\documents\visual studio 2013\Projects\Intersect computer 1.0\Intersect computer 1.0\obj\Debug\Intersect_computer_1._0.CtrPanel.resources
+c:\users\admin\documents\visual studio 2013\Projects\Intersect computer 1.0\Intersect computer 1.0\obj\Debug\Intersect_computer_1._0.Run.resources
+c:\users\admin\documents\visual studio 2013\Projects\Intersect computer 1.0\Intersect computer 1.0\obj\Debug\Intersect_computer_1._0.Settings.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intersect computer 1.0\Intersect computer 1.0\obj\Debug\Intersect_computer_1._0.About.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\INTERSECT\Intersect computer 1.1\Intersect computer 1.0\bin\Debug\Intersect computer 1.0.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\INTERSECT\Intersect computer 1.1\Intersect computer 1.0\obj\Debug\Intersect computer 1.0.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\INTERSECT\Intersect computer 1.1\Intersect computer 1.0\obj\Debug\Intersect computer 1.0.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\INTERSECT\Intersect computer 1.1\Intersect computer 1.0\bin\Debug\Intersect computer 1.0.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\INTERSECT\Intersect computer 1.1\Intersect computer 1.0\bin\Debug\Intersect computer 1.0.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\INTERSECT\Intersect computer 1.1\Intersect computer 1.0\obj\Debug\Intersect computer 1.0.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\INTERSECT\Intersect computer 1.1\Intersect computer 1.0\obj\Debug\Intersect_computer_1._0.About.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\INTERSECT\Intersect computer 1.1\Intersect computer 1.0\obj\Debug\Intersect_computer_1._0.AddText.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\INTERSECT\Intersect computer 1.1\Intersect computer 1.0\obj\Debug\Intersect_computer_1._0.CtrPanel.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\INTERSECT\Intersect computer 1.1\Intersect computer 1.0\obj\Debug\Intersect_computer_1._0.LoadForm.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\INTERSECT\Intersect computer 1.1\Intersect computer 1.0\obj\Debug\Intersect_computer_1._0.MainForm.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\INTERSECT\Intersect computer 1.1\Intersect computer 1.0\obj\Debug\Intersect_computer_1._0.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\INTERSECT\Intersect computer 1.1\Intersect computer 1.0\obj\Debug\Intersect_computer_1._0.Run.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\INTERSECT\Intersect computer 1.1\Intersect computer 1.0\obj\Debug\Intersect_computer_1._0.Settings.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\INTERSECT\Intersect computer 1.1\Intersect computer 1.0\obj\Debug\Intersect computer 1.0.csproj.GenerateResource.Cache
